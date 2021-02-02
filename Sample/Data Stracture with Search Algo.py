@@ -83,4 +83,4 @@ if __name__ == "__main__":
     class_list.set_number_of_student()
     class_list.set_students()
     class_list.class_list_menu()
-
+00
